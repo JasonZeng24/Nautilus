@@ -1,2 +1,2 @@
 # Nautilus
-This is hirenbhai's website
+This is our FRC team's website
